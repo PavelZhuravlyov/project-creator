@@ -1,0 +1,13 @@
+You should install the package global
+
+```bash
+$ npm install project-creator -g
+```
+
+If you want to quickly create a project for training something features you may run the script in your test directory
+
+```bash
+$ project-creator
+```
+
+Then 3 folders(styles, js, img) will be created in your folder. Folders "styles" and "js" will have files "style.css" and "main.js"

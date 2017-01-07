@@ -1,0 +1,16 @@
+{
+  "name": "project-creator",
+  "version": "0.0.6",
+  "description": "Simple project creator for training. It include directories for styles, scripts and images",
+  "main": "index.js",
+  "bin": {
+    "project-creator": "bin/project-creator.js"
+  },
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Zhuravlev",
+  "license": "ISC"
+}
