@@ -1,6 +1,6 @@
 {
   "name": "project-creator",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "description": "Simple project creator for training. It include directories for styles, scripts and images",
   "main": "index.js",
   "bin": {
@@ -12,5 +12,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pavel Zhuravlev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelZhuravlyov/project-creator.git"
+  },
   "license": "ISC"
 }
